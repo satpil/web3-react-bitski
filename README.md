@@ -1,1 +1,1 @@
-# web3-react-fortmatic-connector
+# web3-react-bitski-connector
